@@ -1,3 +1,3 @@
 # Day-Tripper
 starting...
-This is the middle of today
+In the middle of today
